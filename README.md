@@ -4,7 +4,7 @@ Hi 👋 My name is Shengtao (Tony) Hou
 I'm a Master student studying Data Science at the University of Southern California.
 ------------------------------------------------------------------------------------
 
-I studied Economics and Mathematics during my Bachelor at USC. Not coming from a CS background, I need to learn Data Structure and Algorithms on my own, which is quite a challenge for me. I'm hoping that with the power of chatGPT and the continuous effort for LeetCode, I will gain a deeper understanding at the knowledges required to be a great Data Scientist.
+I studied Economics and Mathematics during my Bachelor at USC. Not coming from a CS background, I need to learn Data Structure and Algorithms on my own, which is quite a challenge for me. I'm hoping that with the power of chatGPT and the continuous effort to grind on LeetCode, I will gain a deeper understanding at the knowledges required to be a great Data Scientist.
 
 * 🌍  I'm based in New York (Currently) and sometimes in Los Angeles.
 * ✉️  You can contact me at [shengtao@usc.edu](mailto:shengtao@usc.edu)
