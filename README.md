@@ -7,10 +7,10 @@ I'm a Master student studying Data Science at the University of Southern Califor
 I studied Economics and Mathematics during my Bachelor at USC. Not coming from a CS background, I need to learn Data Structure and Algorithms on my own, which is quite a challenge for me. I'm hoping that with the power of chatGPT and the continuous effort to grind on LeetCode, I will gain a deeper understanding at the knowledges required to be a great Data Scientist.
 
 * 🌍  I'm based in New York (Currently) and sometimes in Los Angeles.
-* ✉️  You can contact me at [shengtao@usc.edu](mailto:shengtao@usc.edu)
+* ✉️  You can contact me at [shengtao.tony@gmail.com](mailto:shengtao.tony@gmail.com)
 * 🧠  I'm learning CSCI572, a course called Web Information Retrieval.
 * 🤝  I'm open to collaborating on Formula One Projects, I'm a huge fan of the sport.
-* ⚡  I'm originally from Qingdao 青岛, a beautiful seaside city that is located in the Northern part of China, my city is known for its Beer and Seafood.
+* ⚡  I'm originally from Qingdao 青岛, a beautiful seaside city that is located in the Northern part of China. My city is known for its Beer and Seafood.
 
 ### Skills
 
