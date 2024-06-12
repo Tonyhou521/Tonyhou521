@@ -10,7 +10,6 @@ I studied Economics and Mathematics during my Bachelor at USC. Not coming from a
 * ✉️  You can contact me at [shengtao.tony@gmail.com](mailto:shengtao.tony@gmail.com)
 * 🧠  I'm learning CSCI572, a course called Web Information Retrieval.
 * 🤝  I'm open to collaborating on Formula One Projects, I'm a huge fan of the sport.
-* ⚡  I'm originally from Qingdao 青岛, a beautiful seaside city that is located in the Northern part of China. My city is known for its Beer and Seafood.
 
 ### Skills
 
